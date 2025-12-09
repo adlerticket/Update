@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "changelog": "-Persistanze Working",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.2/DeinAdlerTicket_Setup_1.2.exe"
+  "version": "1.3",
+  "changelog": "-Checkbox und Steuerung f\u00fcr Auto-Captcha / Captcha Reload auf 20 Sekunden gesetzt",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.3/DeinAdlerTicket_Setup_1.3.exe"
 }
