@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
-  "changelog": "Lizenzpr\u00fcfsystem komplett \u00fcberarbeitet (Online-Status + lokaler Cache).",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.5/DeinAdlerTicket_Setup_1.5.exe"
+  "version": "1.5.2",
+  "changelog": "-Update Status \u00fcberarbeitet",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.5.2/DeinAdlerTicket_Setup_1.5.2.exe"
 }
