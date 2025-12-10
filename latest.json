@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
-  "changelog": "-Update Status \u00fcberarbeitet",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.5.2/DeinAdlerTicket_Setup_1.5.2.exe"
+  "version": "1.5.3",
+  "changelog": "-Close Browser beu beenden von Haupt-GUI",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.5.3/DeinAdlerTicket_Setup_1.5.3.exe"
 }
