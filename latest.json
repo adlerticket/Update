@@ -1,5 +1,5 @@
 {
   "version": "1.1",
-  "changelog": "- Persistent-Login korrigiert: Fehler behoben, bei dem Cookies nicht dauerhaft gespeichert wurden, wodurch Nutzer sich nach jedem Start erneut einloggen mussten.\n- Profil-Verzeichnis-Fix: Sicherstellung, dass die ben\u00f6tigten Profilordner immer vor Browserstart erzeugt werden\n- Kalibrierungs-Popup erg\u00e4nzt: Vor Start der Kalibrierung erscheint nun ein Hinweisfenster, das den Ablauf erkl\u00e4rt und typische Fehler vermeidet (Zoom-Hinweis, Neustartm\u00f6glichkeit).",
+  "changelog": "- Kalibrierungs-Popup erg\u00e4nzt: Vor Start der Kalibrierung erscheint nun ein Hinweisfenster, das den Ablauf erkl\u00e4rt und typische Fehler vermeidet (Zoom-Hinweis, Neustartm\u00f6glichkeit).\n- Persistent-Login korrigiert: Fehler behoben, bei dem Cookies nicht dauerhaft gespeichert wurden, wodurch Nutzer sich nach jedem Start erneut einloggen mussten.\n- Profil-Verzeichnis-Fix: Sicherstellung, dass die ben\u00f6tigten Profilordner immer vor Browserstart erzeugt werden",
   "url": "https://github.com/adlerticket/Update/releases/download/v1.1/DeinAdlerTicket_Setup_1.1.exe"
 }
