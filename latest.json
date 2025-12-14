@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "changelog": "- Neues Fixed-Profile-System: jedes Browserfenster nutzt ein eigenes, festes Profil\n- Stabilere Login-/Logout-Erkennung, Logout wirkt nur noch auf das aktive Fenster\n- Verbesserte Mehrbrowser-Stabilit\u00e4t durch festes Slot- & Prozess-Tracking\n- Neuer Auth-State-Tracker zur zuverl\u00e4ssigen Sitzungsverwaltung\n- Startup-Update-Check inkl. optionalem Info-Popup\n- Optimierte Auto-Reload-Eingabe (robuste Formatierung & Verarbeitung)",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.3/DeinAdlerTicket_Setup_1.3.exe"
+  "version": "1.3.1",
+  "changelog": "- Deutlich reduzierter RAM-Verbrauch\n- Chromium-Cache limitiert & optimiert\n- DevTools-Sniffer RAM-bereinigt\n- Weniger CDP-Sessions (nur page/iframe)\n- Keine Funktions\u00e4nderungen (API, Klicks, Profile unver\u00e4ndert)",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.3.1/DeinAdlerTicket_Setup_1.3.1.exe"
 }
