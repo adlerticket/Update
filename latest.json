@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
-  "changelog": "- \ud83e\udde0 Humanlike Auto-Captcha: zuf\u00e4llige Eingabe-Delays (stabiler & nat\u00fcrlicher)\n- \u23f1\ufe0f Captcha- & Klick-Timer optimiert (weniger Konflikte, bessere Abfolge)\n- \ud83c\udfaf Stabilere Klicklogik auf kalibrierte Canvas-Koordinaten\n- \ud83d\udd75\ufe0f API-Sniffer robuster (saubereres ID-Matching, weniger Fehltrigger)\n- \ud83e\uddf9 RAM- & Performance-Optimierungen (WebEngine & Sniffer)\n- \ud83d\udee0\ufe0f Bugfixes & allgemeine Stabilit\u00e4tsverbesserungen",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.3.4/DeinAdlerTicket_Setup_1.3.4.exe"
+  "version": "1.3.5",
+  "changelog": "- Dark Mode & Light Mode (umschaltbar)\n- Verbesserte Stabilit\u00e4t & Performance\n- Optimierte Lizenzpr\u00fcfung",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.3.5/DeinAdlerTicket_Setup_1.3.5.exe"
 }
