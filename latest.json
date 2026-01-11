@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "changelog": "- Neue Dialogbox bei Card Checkout",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.4.0/DeinAdlerTicket_Setup_1.4.0.exe"
+  "version": "1.4.1",
+  "changelog": "- Stehblock Daten H\u00e4ndling verbessert\n- Kleine Bugfixes",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.4.1/DeinAdlerTicket_Setup_1.4.1.exe"
 }
