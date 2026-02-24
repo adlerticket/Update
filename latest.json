@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
-  "changelog": "- Captcha-Handling stabilisiert (kein Abbruch mehr bei mehreren Captchas hintereinander)\n- API-Refetch nach Captcha, Reload und Browser-Crash zuverl\u00e4ssig neu initialisiert\n- Render-Crash-Recovery verbessert (interne States & Sniffer sauber zur\u00fcckgesetzt)\n- API-Timeouts f\u00fchren nun zu echtem Neuabruf der Ticket-IDs\n- Log-Ausgabe bereinigt: Stehblock-Daten werden nur noch einmal pro Spiel geloggt",
-  "url": "https://github.com/adlerticket/Update/releases/download/v1.4.3/DeinAdlerTicket_Setup_1.4.3.exe"
+  "version": "1.4.4",
+  "changelog": "- Release ohne Changelog-Eintr\u00e4ge",
+  "url": "https://github.com/adlerticket/Update/releases/download/v1.4.4/DeinAdlerTicket_Setup_1.4.4.exe"
 }
